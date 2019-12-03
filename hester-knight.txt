@@ -116,3 +116,25 @@ letter-spacing
     git push origin your-name
     37. Walk me through Lambda's git flow.  
     Fork, clone, change to new branch, git status, add, commit, push to github then pull request 
+
+
+Stretch 
+
+    1. What is the difference between an inline element and a block element? 
+    A block-level element always starts on a new line and takes up all available space on page.
+   An inline element does not start on a new line and only takes up as much width as required.
+
+    2. What happens when an element is positioned absolutely? 
+     The element is position is related to the browsers window
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    inline-block
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default 
+
+    <div>, <header>, <footer> are block
+    <a> <br> are inline 
+    <img> inline-block 
+
+    5. In your own words, explain the box model. What is the fix for the box model? 
+    It is a pattern for positioning HTML elements on the page using CSS. We can consider all html elements to be boxes. Each box consist of: content, padding, border, margin- make up the box model  
